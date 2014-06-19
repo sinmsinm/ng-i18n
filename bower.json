@@ -1,24 +1,27 @@
 {
-  "name": "bootstrap",
-  "version": "3.0.3",
+  "name": "ng-i18n",
+  "version": "0.0.2",
   "main": [
-    "./dist/js/bootstrap.js",
-    "./dist/css/bootstrap.css",
-    "./dist/fonts/glyphicons-halflings-regular.eot",
-    "./dist/fonts/glyphicons-halflings-regular.svg",
-    "./dist/fonts/glyphicons-halflings-regular.ttf",
-    "./dist/fonts/glyphicons-halflings-regular.woff"
+    "./dist/js/ng-i18n-0.2.2.js",
+    "./dist/js/ng-i18n-0.2.2.min.js"
   ],
   "ignore": [
     "**/.*",
     "_*",
-    "docs-assets",
-    "examples",
-    "js/tests",
-    "CNAME",
-    "CONTRIBUTING.md",
-    "composer.json",
-    "*.html"
+    "docs",
+    "logs",
+    "app",
+    "build",
+    "CHANGELOG.md",
+    "config",
+    "scripts",
+    "src",
+    "test",
+    "vendor",
+    "travis.yml",
+    "Gruntfile.js"
+    "package.json"
+      
   ],
   "dependencies": {
     "jquery": ">= 1.9.0"
