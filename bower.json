@@ -19,11 +19,11 @@
     "test",
     "vendor",
     "travis.yml",
-    "Gruntfile.js"
+    "Gruntfile.js",
     "package.json"
       
   ],
   "dependencies": {
-    "jquery": ">= 1.9.0"
+    
   }
 }
